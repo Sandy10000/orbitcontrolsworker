@@ -1,6 +1,8 @@
 # orbitcontrolsworker
 Three.js orbitControls split for main thread and worker thread for use in off-screen canvases
 
+I haven't tested any touch controls because I'm not personally interested in them at the moment.
+
 Corresponds to commit number 2563342.
   
 It is assumed that the directory structure is as follows:  
